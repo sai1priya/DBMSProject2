@@ -1,0 +1,1 @@
+select place, type from public.earthquakes_table;
